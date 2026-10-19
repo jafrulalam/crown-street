@@ -1,0 +1,13 @@
+{
+  "name": "crown-street-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CROWN STREET full-stack demo e-commerce store",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
